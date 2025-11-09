@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Diagnostic Information for Student Retention and Success (DMISRS)"
+  title: "Diagnostic Information for Student Retention and Success (DMISRS) Project"
   navbar:
     left:
       - href: index.qmd

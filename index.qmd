@@ -1,11 +1,34 @@
 ---
 title: "DMISRS"
+resources: cv_rprince.pdf
+about: # https://quarto.org/docs/websites/website-about.html
+  id: dmisrs-heading
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Robert.Prince@uct.ac.za
+    - icon: file-text
+      text: DMISRS
+      href: DMISRS_Project_Signed_Expg.pdf
 ---
 
-This is a Quarto website.
+The DMISRS Project is a collaborative project which aims to analyse the curricula of first year Mathematics courses in Higher Education in order to establish how best to address students’ needs through curriculum-integrated support initiatives, including blended-learning.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Individual areas of need for students in identified institutions are determined through NSC Mathematics and NBT sub-domain analysis and the kind of Mathematics support needed are workshopped.
 
-```{r}
-1 + 1
-```
+The project benefit academics, institutions and students in the following ways:
+
+1.  It enables academics to leverage the diagnostic potential of the provided information in addressing the needs of their particular students.
+
+2.  Individual student reports enable students to review where they are in their learning and enable academics to address the mathematical diversity in a programme or course rather than follow a one-size-fits-all approach to teaching and learning.
+
+3.  The information resulting from the analysis could be used by institutions as a tool for student placement and support and to establish curriculum-integrated support initiatives.
+
+4.  It enables academics to make evidence-based decisions for curriculum change to enhance student success.
+
+5.  It enhances curriculum support in Mathematics to increase student participation and success in Science, Technology, Engineering and Mathematics (STEM) programmes.
+
+6.  It has the potential to change the profile of students succeeding in Mathematics and STEM programmes.
+
+7.  It aims to enhance the first year experience and to reduce attrition.
