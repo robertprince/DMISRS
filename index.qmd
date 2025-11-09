@@ -1,5 +1,6 @@
 ---
 title: "Diagnostic Information for Student Retention and Success (DMISRS) Project"
+image: Picture1.jpg
 resources: DMISRS_Project_Signed_Expg.pdf
 about: # https://quarto.org/docs/websites/website-about.html
   id: dmisrs-heading
