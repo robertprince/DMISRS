@@ -10,7 +10,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: mailto:Robert.Prince@uct.ac.za
     - icon: file-text
       text: DMISRS
-      href: DMISRS_Project_Signed_Expg.pdf
+      href: DMISRS/DMISRS_Project_Signed_Expg.pdf
 ---
 
 ::: {#dmisrs-heading}
