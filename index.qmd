@@ -1,6 +1,6 @@
 ---
 title: "DMISRS"
-resources: cv_rprince.pdf
+resources: DMISRS_Project_Signed_Expg.pdf
 about: # https://quarto.org/docs/websites/website-about.html
   id: dmisrs-heading
   template: jolla
@@ -12,8 +12,6 @@ about: # https://quarto.org/docs/websites/website-about.html
       text: DMISRS
       href: DMISRS_Project_Signed_Expg.pdf
 ---
-
-#dmisrs-heading
 
 The DMISRS Project is a collaborative project which aims to analyse the curricula of first year Mathematics courses in Higher Education in order to establish how best to address students’ needs through curriculum-integrated support initiatives, including blended-learning.
 
