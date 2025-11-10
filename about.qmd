@@ -1,5 +1,6 @@
 ---
 title: "About"
+resources: DMISRS_Project_Signed_Expg.pdf
 ---
 
 You can read the full DMISRS Proposal below:

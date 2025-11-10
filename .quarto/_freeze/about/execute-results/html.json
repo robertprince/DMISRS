@@ -1,5 +1,5 @@
 {
-  "hash": "6a30bff588a666353132c65aff5d7a55",
+  "hash": "4b9726c6d1fd4195603a46e52681da25",
   "result": {
     "engine": "knitr",
     "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
