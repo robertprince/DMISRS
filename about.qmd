@@ -8,9 +8,13 @@ resources:
 - Final_DMISRS_M&E_Report_Draft_4.pdf
 ---
 
+## DMISRS Proposal
+
 You can read the full DMISRS Proposal below:
 
 [📄 Download Full DMISRS Proposal (PDF)](DMISRS_Project_Signed_Expg.pdf){target="_blank"}
+
+## DMISRS Monitoring and Evaluation Reports
 
 You can read the 2019 DMISRS ME Report below:
 
