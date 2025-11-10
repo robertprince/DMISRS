@@ -10,8 +10,8 @@ about: # https://quarto.org/docs/websites/website-about.html
       text: Email
       href: mailto:Robert.Prince@uct.ac.za
     - icon: file-text
-      text: DMISRS
-      href: DMISRS/DMISRS_Project_Signed_Expg.pdf
+      text: Robert Noel Prince, PhD
+      href: https://robertprince.github.io
 ---
 
 ::: {#dmisrs-heading}
