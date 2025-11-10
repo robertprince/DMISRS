@@ -1,11 +1,22 @@
 ---
-title: "About"
+title: "About DMISRS"
+image: Picture1.jpg
 resources: 
 - DMISRS_Project_Signed_Expg.pdf
 - 2019_DMISRS_M&E_Report.pdf
 - 2020_DMISRS_M&E_Report.pdf
 - 2021_DMISRS_M&E_Report.pdf
 - Final_DMISRS_M&E_Report_Draft_4.pdf
+about: # https://quarto.org/docs/websites/website-about.html
+  id: dmisrs-heading
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Robert.Prince@uct.ac.za
+    - icon: file-text
+      text: Robert Noel Prince, PhD
+      href: https://robertprince.github.io/
 ---
 
 ## DMISRS Proposal
