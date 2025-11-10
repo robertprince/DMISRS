@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+You can read the full DMISRS Proposal below:
 
-```{r}
-1 + 1
-```
+[📄 Download Full DMISRS Proposal (PDF)](DMISRS_Project_Signed_Expg.pdf){target="_blank"}
