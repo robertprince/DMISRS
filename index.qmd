@@ -11,7 +11,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: mailto:Robert.Prince@uct.ac.za
     - icon: file-text
       text: Robert Noel Prince, PhD
-      href: https://robertprince.github.io
+      href: https://robertprince.github.io/
 ---
 
 ::: {#dmisrs-heading}
