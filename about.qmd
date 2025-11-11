@@ -19,6 +19,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://robertprince.github.io/
 ---
 
+::: {#dmisrs-heading}
 ## DMISRS Proposal
 
 You can read the full DMISRS Proposal below:
@@ -42,3 +43,12 @@ You can read the 2021 DMISRS ME Report below:
 You can read the Final DMISRS ME Report below:
 
 [📄 Download Final DMISRS M&E Report_Draft 4 (PDF)](Final_DMISRS_M&E_Report_Draft_4.pdf){target="_blank"}
+
+## DMISRS Research
+
+Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education, 43*(4). <https://doi.org/10.38140/pie.v43i4.9198>
+
+Prince, R. N., & Simpson, Z. (2025). *Professional development of tertiary mathematics educators: A landscapes of practice approach.* *Perspectives in Education, 43*(4). <https://doi.org/10.38140/pie.v43i4.8180>
+:::
+
+## 
