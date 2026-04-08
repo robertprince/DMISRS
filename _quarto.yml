@@ -12,6 +12,7 @@ website:
       text: Robert Noel Prince
       href: https://robertprince.github.io/
 
+brand: _brand.yml
 
 format:
   html:
