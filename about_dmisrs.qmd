@@ -23,6 +23,8 @@ about:
       href: https://robertprince.github.io/
 ---
 
+# Diagnostic Information for Student Retention and Success (DMISRS) Project
+
 ## DMISRS Proposal
 
 ## [📄 DMISRS Proposal](DMISRS_Project_Signed_Expg.pdf)
