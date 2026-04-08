@@ -1,0 +1,59 @@
+---
+title: "About DMISRS"
+image: Picture1.jpg
+resources: 
+  - DMISRS_Project_Signed_Expg.pdf
+  - 2019_DMISRS_M&E_Report.pdf
+  - 2020_DMISRS_M&E_Report.pdf
+  - 2021_DMISRS_M&E_Report.pdf
+  - Final_DMISRS_M&E_Report_Draft_4.pdf
+
+about:
+  id: dmisrs-heading
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Robert.Prince@uct.ac.za
+    - icon: file-text
+      text: Robert Noel Prince, PhD
+      href: https://robertprince.github.io/
+---
+
+## [📄 DMISRS Proposal](DMISRS_Project_Signed_Expg.pdf)
+
+Access the full DMISRS proposal document.
+
+------------------------------------------------------------------------
+
+## 📊 DMISRS Monitoring and Evaluation Reports
+
+### [2019 M&E Report](2019_DMISRS_M&E_Report.pdf)
+
+Download the 2019 report.
+
+### [2020 M&E Report](2020_DMISRS_M&E_Report.pdf)
+
+Download the 2020 report.
+
+### [2021 M&E Report](2021_DMISRS_M&E_Report.pdf)
+
+Download the 2021 report.
+
+### [Final M&E Report (Draft 4)](Final_DMISRS_M&E_Report_Draft_4.pdf)
+
+Download the final draft report.
+
+------------------------------------------------------------------------
+
+## 📚 DMISRS Research Publications
+
+::: {#dmisrs-heading}
+Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education*, *43*(4), 411–429. <https://doi.org/10.38140/pie.v43i4.9198>
+
+Prince, R. N., & Simpson, Z. (2025). Professional development of tertiary mathematics educators: A landscapes of practice approach. *Perspectives in Education*, *43*(4), 430–441. <https://doi.org/10.38140/pie.v43i4.8180>
+
+Sanet Steyn, Tatiana Sango, Liezle Boshoff, Anita Campbell, Frikkie George, Vasuthavan Govender, Darlington Hove, Syamala Krishnannair, Narenee Mewalal, Mashudu Mokhithi, Pragashni Padayachee, Ekaterina Rzyankina, Jonathan Shock. (2025). Lessons learnt and insights shared: The Diagnostic Mathematics Information for Student Retention and Success (DMISRS) Case Studies Dialogue on teaching first-year mathematics in South Africa. *Perspectives in Education*, *43*(4), 364–410. <https://doi.org/10.38140/pie.v43i4.9203>
+
+Mudavanhu, P., & Steyn, S. (2025). Integrating National Benchmark Test (NBT) diagnostics into data analytics reports . *Perspectives in Education*, *43*(4), 442–458. <https://doi.org/10.38140/pie.v43i4.9219>
+:::
