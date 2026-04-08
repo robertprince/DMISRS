@@ -7,9 +7,6 @@ website:
   navbar:
     left:
       - about.qmd
-      - icon: file-text
-        text: DMISRS
-        href: https://robertprince.github.io/DMISRS/
     right: 
     - icon: file-text
       text: Robert Noel Prince
