@@ -6,7 +6,7 @@ website:
   title: "Diagnostic Information for Student Retention and Success (DMISRS) Project"
   navbar:
     left:
-      - about.qmd
+      - about_dmisrs.qmd
     right: 
     - icon: file-text
       text: Robert Noel Prince
