@@ -1,6 +1,6 @@
 ---
 title: "About DMISRS"
-image: Picture1.jpg
+image: profile.jpg
 resources: 
   - DMISRS_Project_Signed_Expg.pdf
   - 2019_DMISRS_M&E_Report.pdf
