@@ -1,6 +1,6 @@
 ---
 title: "About DMISRS"
-image: profile.jpg
+image: Picture1.jpg
 resources: 
   - DMISRS_Project_Signed_Expg.pdf
   - 2019_DMISRS_M&E_Report.pdf
@@ -24,6 +24,12 @@ about:
 ---
 
 ## Diagnostic Information for Student Retention and Success (DMISRS) Project
+
+<div>
+
+Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education*, *43*(4), 411–429. <https://doi.org/10.38140/pie.v43i4.9198>
+
+</div>
 
 ## [📄 DMISRS Proposal](DMISRS_Project_Signed_Expg.pdf)
 
