@@ -8,6 +8,9 @@ resources:
   - 2021_DMISRS_M&E_Report.pdf
   - Final_DMISRS_M&E_Report_Draft_4.pdf
 
+toc: true
+toc-location: right
+
 about:
   id: dmisrs-heading
   template: jolla
@@ -20,25 +23,35 @@ about:
       href: https://robertprince.github.io/
 ---
 
+## DMISRS Proposal
+
 ## [📄 DMISRS Proposal](DMISRS_Project_Signed_Expg.pdf)
 
 Access the full DMISRS proposal document.
 
 ------------------------------------------------------------------------
 
-## 📊 DMISRS Monitoring and Evaluation Reports
+## DMISRS Monitoring and Evaluation Reports
+
+### 2019 M&E Report
 
 ### [2019 M&E Report](2019_DMISRS_M&E_Report.pdf)
 
 Download the 2019 report.
 
+### 2020 M&E Report
+
 ### [2020 M&E Report](2020_DMISRS_M&E_Report.pdf)
 
 Download the 2020 report.
 
+### 2021 M&E Report
+
 ### [2021 M&E Report](2021_DMISRS_M&E_Report.pdf)
 
 Download the 2021 report.
+
+### Final M&E Draft Report
 
 ### [Final M&E Report (Draft 4)](Final_DMISRS_M&E_Report_Draft_4.pdf)
 
@@ -46,7 +59,7 @@ Download the final draft report.
 
 ------------------------------------------------------------------------
 
-## 📚 DMISRS Research Publications
+## DMISRS Research Publications
 
 ::: {#dmisrs-heading}
 Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education*, *43*(4), 411–429. <https://doi.org/10.38140/pie.v43i4.9198>
