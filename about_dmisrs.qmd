@@ -23,7 +23,11 @@ about:
       href: https://robertprince.github.io/
 ---
 
-# Diagnostic Information for Student Retention and Success (DMISRS) Project
+## Diagnostic Information for Student Retention and Success (DMISRS) Project
+
+::: {#dmisrs-heading}
+Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education*, *43*(4), 411–429. <https://doi.org/10.38140/pie.v43i4.9198>
+:::
 
 ## DMISRS Proposal
 
@@ -63,7 +67,8 @@ Download the final draft report.
 
 ## DMISRS Research Publications
 
-::: {#dmisrs-heading}
+<div>
+
 Prince, R. N., & Balarin, E. (2025). Reflecting on the Diagnostic Mathematics Information for Student Retention and Success (DMISRS) journey: Key insights into negotiating large-scale collaborative projects. *Perspectives in Education*, *43*(4), 411–429. <https://doi.org/10.38140/pie.v43i4.9198>
 
 Prince, R. N., & Simpson, Z. (2025). Professional development of tertiary mathematics educators: A landscapes of practice approach. *Perspectives in Education*, *43*(4), 430–441. <https://doi.org/10.38140/pie.v43i4.8180>
@@ -71,4 +76,5 @@ Prince, R. N., & Simpson, Z. (2025). Professional development of tertiary mathem
 Sanet Steyn, Tatiana Sango, Liezle Boshoff, Anita Campbell, Frikkie George, Vasuthavan Govender, Darlington Hove, Syamala Krishnannair, Narenee Mewalal, Mashudu Mokhithi, Pragashni Padayachee, Ekaterina Rzyankina, Jonathan Shock. (2025). Lessons learnt and insights shared: The Diagnostic Mathematics Information for Student Retention and Success (DMISRS) Case Studies Dialogue on teaching first-year mathematics in South Africa. *Perspectives in Education*, *43*(4), 364–410. <https://doi.org/10.38140/pie.v43i4.9203>
 
 Mudavanhu, P., & Steyn, S. (2025). Integrating National Benchmark Test (NBT) diagnostics into data analytics reports . *Perspectives in Education*, *43*(4), 442–458. <https://doi.org/10.38140/pie.v43i4.9219>
-:::
+
+</div>
